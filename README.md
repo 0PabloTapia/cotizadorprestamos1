@@ -1,1 +1,1 @@
-https://focused-cray-8f009d.netlify.app
+https://cotizadorprestamos1.netlify.app
